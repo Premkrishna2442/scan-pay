@@ -1,5 +1,5 @@
 .main-nav{
-    display: flex;
+    display: inline-flex;
     list-style: none;
     fornt-size: 0.7em;
     margin: 0;
