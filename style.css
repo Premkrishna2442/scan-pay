@@ -1,0 +1,54 @@
+.main-nav{
+    display: flex;
+    list-style: none;
+    fornt-size: 0.7em;
+    margin: 0;
+    background:#aad136 ;
+
+}
+body{
+    margin: auto 0;
+}
+li{
+    padding:20px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+}
+a:hover{
+   text-decoration: none;
+   background: lightgrey;
+    border: 20px;
+
+}
+.push{
+    margin-left: auto;
+}
+.active{
+    background: dimgray;
+    padding: 20px;
+}
+.hname{
+    text-align: center;
+   font-family: 'Ravi Prakash', cursive;
+   color:#aad136 ;
+   padding: 10px;
+   fornt-weight:30px ;
+}
+form{
+    margin: 30px;
+    padding: 10px;
+}
+.offimg{
+  
+    margin: 30px;
+    padding: 20px;
+}
+.resimg{
+    border-radius: 100%;
+}
+h4,h3{
+    font-family: 'Reggae One', cursive;
+}
